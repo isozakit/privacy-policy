@@ -38,7 +38,7 @@ title: Pomodo＋ プライバシーポリシー
 
 本アプリに関するお問い合わせは、以下の方法でご連絡ください。
 
-- GitHub: [https://github.com/isozakit/Pomodo](https://github.com/isozakit/Pomodo)
+- E-mail: [isozakit@gmail.com](mailto:isozakit@gmail.com) 
 
 ## 6. 改定について
 
